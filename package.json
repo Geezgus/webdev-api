@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "webdev-api",
   "version": "1.0.0",
   "description": "",
   "main": "dist/app.js",
